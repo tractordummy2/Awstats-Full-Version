@@ -240,4 +240,4 @@ This repository serves as the official landing page for AWStats. The software is
 **Get the most recent version of AWStats today!**
 
 ---
-**Last updated:** 2026-09-20 00:55:01 UTC
+**Last updated:** 2026-09-20 05:58:17 UTC
